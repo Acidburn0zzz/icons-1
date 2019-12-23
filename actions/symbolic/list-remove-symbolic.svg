@@ -1,6 +1,1 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#bebebe' transform='translate(-273 -117)'>
-        
-        <rect fill='#666' height='2' overflow='visible' style='marker:none' width='10' x='276.001' y='124'/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g color="#bebebe" transform="translate(-273 -117)"><rect style="marker:none" width="10" height="2" x="276.001" y="124" fill="#666" overflow="visible"/></g></svg>
